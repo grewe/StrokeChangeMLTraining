@@ -13,6 +13,27 @@ This is the repository for the python Tensorflow based Colabs for training the 3
 
 ### Directories
 
+#### LabeledData-8-classes
+colab to train the 8-class StrokeChange Detector Only Implementation 
+
+#### LabeledData-6-classes
+colab to train the 6-class StrokeChange Detector Only Implementation 
+
+#### LabeledData-Eye-Mouth
+colab to train the StrokeChange Region Detection to Classification & Regression implementations'  Eye&Mouth Detector
+
+#### LabeledData-Mouth-Regression
+colab to train the StrokeChange Region Detection to Regression implementation's  MOUTH Regression model
+
+#### LabeledData-Eye-Regression
+colab to train the StrokeChange Region Detection to Regression implementation's  EYE Regression model
+
+#### LabeledData-Mouth-Classifier-4Classes
+colab to train the StrokeChange Region Detection to Classification implementation's  MOUTH Classifier
+
+#### LabeledData-Eye-Classifier-4Classes
+colab to train the StrokeChange Region Detection to Classification implementation's  EYE Classifier
+
 #### GeneralColabs
 base colabs/notebooks used to train detectors, classifiers and regression models used in StrokeChange
 ALSO see other directories for specific directories for spefic colabs used in actual training that are based off of these
